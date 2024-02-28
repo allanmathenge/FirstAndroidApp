@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FirstApp"
+rootProject.name = "AndroidTravellerApp"
 include(":app")
+ 
